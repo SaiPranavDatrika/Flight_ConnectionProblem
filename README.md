@@ -17,7 +17,10 @@ Note : All Pairs Of Cities Don't Have To Be Reachable After Shut Down Of Flights
 6 8
 1 3
 
+Dry run testcase link:https://user-images.githubusercontent.com/102690390/160975855-ea1f4681-18a0-4aee-af89-3000421831c3.jpeg
+
 IDEA:
+
 Using Graph Algorithm you can crack this problem.It's DFS Based solution.
 The idea of this problem is to detect a cycle in undirected graph and shut down those routes to make maximum overall connectivity.
 If their is no cycle present in the graph, try to search for the node where the connectivity is minimum and shut down those routes.
