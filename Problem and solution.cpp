@@ -1,4 +1,4 @@
-Flight Connection Solution:
+/*Flight Connection Solution:
 
 Link to the problem statement:
 https://www.codingninjas.com/codestudio/problem-details/flight-connections_625702
@@ -7,7 +7,7 @@ n number of cities (numbered from 1 to n) are connected by m number of 2-way fli
 Overall connectivity factor is sum of connectivity factors of all cities.
 After few years, due to some financial crisis, 2 flights needs to shut down. We need to shut down the flights such that overall connectivity factor is maximized.
 Given the details of flights (without any shut down), you need to find and print the updated overall connectivity factor after 2 shut downs, which is maximum.
-Note : All Pairs Of Cities Don't Have To Be Reachable After Shut Down Of Flights.
+Note : All Pairs Of Cities Don't Have To Be Reachable After Shut Down Of Flights.*/
 
 
 
